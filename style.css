@@ -1,0 +1,14 @@
+body {
+  background-image: url(https://wallpapercave.com/wp/WkziiJQ.jpg);
+  color: white;
+  font-family: "Jura";
+   background-attachment: fixed;
+}
+
+#clockTime {
+  display: inline;
+}
+
+#breakTime {
+  display: inline;
+}
